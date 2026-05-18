@@ -18,17 +18,17 @@ Work experience
 ======
  
 * Lecturer (2024 to present)
-  * Central Queensland University
+  * Central Queensland University, QLD, Australia.
 * Research Fellow (2023–2024)
-  * University of Technology Sydney (UTS)
+  * University of Technology Sydney (UTS), NSW, Australia.
 * Research Associate & Associate Lecturer (2019–2022)
-  * Curtin University
+  * Curtin University, WA, Australia.
 * Postdoctoral Researcher (2018–2019)
-  * Universidad de Chile
+  * Universidad de Chile, Chile.
 * Postdoctoral Researcher (2015–2018)
-  * Nanyang Technological University
+  * Nanyang Technological University, Singapore.
 * Postdoctoral Researcher (2013-2015)
-  * Singapore-MIT Alliance for Research and Technology (SMART) Centre
+  * Singapore-MIT Alliance for Research and Technology (SMART) Centre, Singapore.
   
 
 Publications
