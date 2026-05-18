@@ -17,6 +17,8 @@ Education
 Work experience
 ======
  
+* Lecturer (2024 to present)
+  * Central Queensland University
 * Research Fellow (2023–2024)
   * University of Technology Sydney (UTS)
 * Research Associate & Associate Lecturer (2019–2022)
