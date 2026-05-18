@@ -1,6 +1,7 @@
 ---
 title: "A Random Finite Set Based Detection and Tracking using 3D LIDAR in Dynamic Environments"
 collection: publications
+category: conferences
 permalink: /publications/2010-10-01-3d-lidar-tracking
 excerpt: 'Application of random finite set theory to detection and tracking using 3D LIDAR sensors in dynamic environments.'
 date: 2010-10-01
