@@ -11,35 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Electrical Engineering (Mobile Robotics), Nanyang Technological University, Singapore (2014)
+* B.Sc. in Computer Science & Engineering, University of Moratuwa, Sri Lanka (2006)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+ 
+* Research Fellow (2023–2024)
+  * University of Technology Sydney (UTS)
+* Research Associate & Associate Lecturer (2019–2022)
+  * Curtin University
+* Postdoctoral Researcher (2018–2019)
+  * Universidad de Chile
+* Postdoctoral Researcher (2015–2018)
+  * Nanyang Technological University
+* Postdoctoral Researcher (2013-2015)
+  * Singapore-MIT Alliance for Research and Technology (SMART) Centre
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -61,4 +49,3 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
