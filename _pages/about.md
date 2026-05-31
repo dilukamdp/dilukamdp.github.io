@@ -41,7 +41,7 @@ Prior to joining CQU, Dr. Moratuwage held research positions at:
   [View Grant](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/LP200301507)
 - **Defence Science Centre Collaborative Research Grant** (2020) — Automatic Searching and 
   Tracking of Anomalous Ground Signals from a Satellite Constellation — AUD 128,000 
-  (Chief Investigator)
+  (Chief Investigator)    [View Announcement](https://www.minister.defence.gov.au/media-releases/2020-08-20/research-grants-strengthen-was-defence-industry)
 - **Fondecyt Research Grant** (2019) — Improving Robot Trajectory Estimation in RFS-SLAM — 
   AUD 24,000 (Chief Investigator)
 - **ST-Engineering–NTU Corporate Laboratory Grant** (2015–2018) — Collaborative Exploration 
