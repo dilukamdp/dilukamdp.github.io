@@ -38,6 +38,7 @@ Prior to joining CQU, Dr. Moratuwage held research positions at:
 
 - **ARC Linkage Grant** (2020) — Collision Avoidance in Shipping Lanes via Intelligent Sensor 
   Data Fusion — AUD 568,000 (Chief Investigator)
+  Link: https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/LP200301507
 - **Defence Science Centre Collaborative Research Grant** (2020) — Automatic Searching and 
   Tracking of Anomalous Ground Signals from a Satellite Constellation — AUD 128,000 
   (Chief Investigator)
