@@ -2,6 +2,7 @@
 title: "Collaborative SLAM with Moving Object Tracking"
 excerpt: "RFS-based Collaborative Localization and Mapping with Moving Object Tracking (CSLAMMOT) using two mobile robots, and marine dataset collection at Pandan Reservoir, Singapore."
 collection: portfolio
+type: project
 ---
 
 ## Multi-Robot CSLAM with Moving Object Tracking
