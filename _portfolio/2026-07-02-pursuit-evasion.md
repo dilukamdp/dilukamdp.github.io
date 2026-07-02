@@ -2,6 +2,7 @@
 title: "Decentralized Multi-Robot Pursuit-Evasion"
 excerpt: "A decentralized reinforcement learning framework for cooperative pursuit of evasive targets using multiple autonomous robots, funded by Central Queensland University (CQU)."
 collection: portfolio
+type: project
 ---
 
 Development of a decentralized multi-robot pursuit-evasion framework using deep reinforcement
