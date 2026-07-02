@@ -2,6 +2,7 @@
 title: "3D RFS-SLAM on Ground Robots (Clearpath Husky)"
 excerpt: "RFS-based 3D SLAM and Collaborative SLAM using Clearpath Husky robots fitted with ZED Stereo Camera and Velodyne VLP-16 LiDAR at NTU."
 collection: portfolio
+type: project
 ---
 
 Random Finite Set (RFS) based 3D Simultaneous Localization and Mapping (SLAM) and 
