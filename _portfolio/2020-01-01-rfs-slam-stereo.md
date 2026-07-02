@@ -2,6 +2,7 @@
 title: "3D RFS-SLAM with Handheld Stereo Camera"
 excerpt: "Real-time Random Finite Set based 3D SLAM using a handheld ZED Stereo Camera at Nanyang Technological University (NTU)."
 collection: portfolio
+type: project
 ---
 
 Real-time Random Finite Set (RFS) based 3D Simultaneous Localization and Mapping (SLAM) 
