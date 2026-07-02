@@ -2,6 +2,7 @@
 title: "3D RFS-SLAM on UAV (Asctec Pelican)"
 excerpt: "Real-time RFS-based 3D SLAM using a ZED Stereo Camera mounted on an Asctec Pelican UAV at Nanyang Technological University (NTU)."
 collection: portfolio
+type: project
 ---
 
 Real-time Random Finite Set (RFS) based 3D Simultaneous Localization and Mapping (SLAM) 
