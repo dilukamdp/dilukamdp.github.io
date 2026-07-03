@@ -1,5 +1,4 @@
 ---
----
 title: "Random Finite Set Based 3D Visual SLAM"
 excerpt: "A probabilistic 3D Visual SLAM framework based on Random Finite Set theory for robust localisation and mapping in GPS-denied environments."
 collection: portfolio
