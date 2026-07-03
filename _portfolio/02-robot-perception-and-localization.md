@@ -5,3 +5,9 @@ collection: portfolio
 type: pillar
 identifier: perception
 ---
+
+## Random Finite Set Based 3D Visual SLAM
+
+Development of a real-time random finite set (RFS) based Visual SLAM framework using stereo vision and Bayesian estimation, demonstrated on handheld, UAV, and ground robotic platforms.
+
+[Read more](/portfolio/2020-01-rfs-visual-slam/)
