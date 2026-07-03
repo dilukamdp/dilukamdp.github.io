@@ -9,6 +9,7 @@ identifier: cslammot
 pillars:
   - perception
   - estimation
+  - robotic-systems
 
 year: 2013
 stage: mature
