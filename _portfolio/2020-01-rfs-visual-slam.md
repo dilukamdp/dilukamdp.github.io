@@ -1,4 +1,5 @@
 ---
+---
 title: "Random Finite Set Based 3D Visual SLAM"
 excerpt: "A probabilistic 3D Visual SLAM framework based on Random Finite Set theory for robust localisation and mapping in GPS-denied environments."
 collection: portfolio
@@ -27,6 +28,30 @@ technologies:
   - GM-PHD Filter
   - ROS
   - OctoMap
+
+video_ids:
+  - oYNl-0hB4HI
+  - Gm9HyggRZy4
+  - vCci49uM8Uc
+  - OWYgYwvoNMs
+  - ZV9A8iAtelU
+  - Qrg5CQAu61U
+
+locations:
+  - Nanyang Technological University
+  - Indoor laboratory
+  - Outdoor campus
+
+collaborators:
+  - Nanyang Technological University
+
+funding:
+  - ST Engineering-NTU Corporate Laboratory
+
+related_projects:
+  - collaborative-lidar-slam
+  - cslammot
+  - distributed-perception
 ---
 
 Autonomous robots operating in GPS-denied environments require reliable localisation and mapping capabilities to navigate safely and build useful representations of their surroundings. This project developed a Random Finite Set (RFS) based 3D Visual SLAM framework that combines probabilistic state estimation with stereo vision to jointly estimate robot trajectory and construct three-dimensional maps.
