@@ -6,8 +6,33 @@ type: pillar
 identifier: perception
 ---
 
-## Random Finite Set Based 3D Visual SLAM
+My research in Robot Perception & Localisation focuses on probabilistic localisation, mapping, and perception algorithms that enable autonomous robots to operate reliably in complex, GPS-denied, and dynamic environments.
 
-Development of a real-time random finite set (RFS) based Visual SLAM framework using stereo vision and Bayesian estimation, demonstrated on handheld, UAV, and ground robotic platforms.
+## Research Areas
 
-[Read more](/portfolio/2020-01-rfs-visual-slam/)
+- Simultaneous Localisation and Mapping (SLAM)
+- Collaborative SLAM
+- Visual SLAM
+- LiDAR SLAM
+- Multi-Robot Localisation
+- Sensor Fusion
+- GPS-Denied Navigation
+- Probabilistic Mapping
+
+## Research Projects
+
+{% assign perception_projects = site.portfolio | where: "type", "project" %}
+
+{% for project in perception_projects %}
+  {% if project.pillars contains "perception" %}
+
+### {{ project.title }}
+
+{{ project.excerpt }}
+
+[View Project]({{ project.url }})
+
+---
+
+  {% endif %}
+{% endfor %}
