@@ -26,3 +26,15 @@ Scheme and forms part of an ongoing research program on decentralized autonomous
 multi-robot coordination, and intelligent decision-making.
 
 ## Project Demonstration
+
+The video below demonstrates the multi-robot pursuit-evasion framework across progressively
+larger scenarios, including 3 pursuers/1 evader, 6 pursuers/2 evaders, and 9 pursuers/3 evaders.
+It compares the learned TD3-based policy with a Pure Pursuit baseline, highlighting how the
+learned approach supports coordinated interception as the number of agents increases.
+
+<iframe width="100%" height="480"
+src="https://www.youtube.com/embed/cNTVuF9-6zU"
+title="TD3 vs Pure Pursuit for Multi-Agent Pursuit-Evasion"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>
