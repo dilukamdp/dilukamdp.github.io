@@ -10,10 +10,11 @@ pillars:
 Development of a decentralized multi-robot pursuit-evasion framework using deep reinforcement
 learning for cooperative target interception under limited communication and sensing.
 
-The framework employs Soft Actor-Critic (SAC) with centralized training and decentralized
-execution (CTDE), enabling each pursuer to make independent decisions using only local
-observations. The system is designed to scale to multiple robots operating in dynamic
-environments where communication constraints and collision avoidance must be considered.
+The framework utilizes continuous-control reinforcement learning algorithms such as
+Soft Actor-Critic (SAC) and Twin Delayed Deep Deterministic Policy Gradient (TD3) to support
+cooperative multi-robot decision making. The system is designed to scale to multiple robots
+operating in dynamic environments where limited sensing, communication constraints, and
+collision avoidance must be considered.
 
 The project includes a high-fidelity simulation environment featuring curriculum learning,
 domain randomization, realistic robot dynamics, moving evasive targets, and cooperative
