@@ -27,14 +27,24 @@ multi-robot coordination, and intelligent decision-making.
 
 ## Project Demonstration
 
-The video below demonstrates the multi-robot pursuit-evasion framework across progressively
-larger scenarios, including 3 pursuers/1 evader, 6 pursuers/2 evaders, and 9 pursuers/3 evaders.
-It compares the learned TD3-based policy with a Pure Pursuit baseline, highlighting how the
-learned approach supports coordinated interception as the number of agents increases.
+The following video accompanies our paper submitted to the **Australasian Conference on Robotics and Automation (ACRA) 2026**.
 
-<iframe width="100%" height="480"
-src="https://www.youtube.com/embed/cNTVuF9-6zU"
-title="TD3 vs Pure Pursuit for Multi-Agent Pursuit-Evasion"
-frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen></iframe>
+[![TD3 vs Pure Pursuit for Multi-Agent Pursuit-Evasion](https://img.youtube.com/vi/cNTVuF9-6zU/hqdefault.jpg)](https://www.youtube.com/watch?v=cNTVuF9-6zU)
+
+[Watch the video on YouTube](https://www.youtube.com/watch?v=cNTVuF9-6zU)
+
+This video compares a parameter-sharing TD3 policy with a Pure Pursuit baseline for communication-free multi-agent pursuit-evasion.
+
+A key feature of the proposed TD3 controller is that the learned policy jointly controls both the angular velocity and linear velocity of each pursuer. Thus, the pursuers learn not only how to steer toward and coordinate around evaders, but also how to regulate their forward speed as part of the cooperative pursuit strategy. In contrast, the Pure Pursuit baseline turns toward its assigned evader while moving at the maximum pursuer speed.
+
+Three configurations are demonstrated at an evader speed of \(V_e = 20\), while the maximum pursuer speed is \(v_{p,\max} = 10\):
+
+- 3 pursuers / 1 evader
+- 6 pursuers / 2 evaders
+- 9 pursuers / 3 evaders
+
+For each configuration, five TD3 evaluation episodes are shown first, followed immediately by five Pure Pursuit episodes under the corresponding evaluation conditions. The same random seed is used to generate reproducible randomized evaluation sequences for comparison.
+
+Both controllers use the same decentralized arrival-time-based target-assignment mechanism. The TD3 controller executes a shared deterministic policy using only locally available observations and independently determines both turning rate and forward speed for every pursuer, without inter-agent communication.
+
+The policy was trained only on single-evader scenarios, making the 6P/2E and 9P/3E demonstrations examples of zero-shot generalization to multi-evader pursuit.
