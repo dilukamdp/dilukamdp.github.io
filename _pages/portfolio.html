@@ -11,10 +11,16 @@ author_profile: true
 
 {% include base_path %}
 
-
 {% for post in site.portfolio %}
   {% if post.type == "pillar" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
+<hr>
+<h2>Applications</h2>
+
+{% assign application_posts = site.portfolio | where: "type", "application" | sort: "application_order" %}
+{% for post in application_posts %}
+  {% include archive-single.html %}
+{% endfor %}
